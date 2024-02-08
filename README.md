@@ -55,6 +55,14 @@
 <hr>
 <br>
 <p align="center">
-    
-
 </p>
+<h2 align="center">🔥 Here Some of my Portofolio 🔥</h2><br>
+<p align="center">
+    <img title="slide1" src="images/Slide1.jpg"/>
+    <img title="slide2" src="images/Slide2.jpg"/>
+    <img title="slide3" src="images/Slide3.jpg"/>
+    <img title="slide4" src="images/Slide4.jpg"/>
+    <img title="slide5" src="images/Slide5.jpg"/>
+</p>
+
+
