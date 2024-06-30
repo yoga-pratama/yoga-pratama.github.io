@@ -67,5 +67,11 @@
     <img title="slide4" src="images/Slide4.jpg"/>
     <img title="slide5" src="images/Slide5.jpg"/>
 </p>
+<br>
+<br>
+<h2 align="center">🔥 Sample UI 🔥</h2><br>
+<p align="center">
+   <img title="sample ui" src="images/sample-ui.jpg" width="400" height="800"/>
+</p>
 
 
