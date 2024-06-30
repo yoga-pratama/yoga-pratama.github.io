@@ -39,20 +39,20 @@
   <img title="GitHub" height="25" src="images/github.svg">
   <img title="Visual Studio Code" height="25" src="images/vscode.png">
 </p>
-<hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-
-
 <p align="center">
-<a href="https://github.com/yoga-pratama/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoga-pratama&hide=c%23,kotlin,java,laravel,&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
- </a>
+<!-- <a href="https://github.com/yoga-pratama/">
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoga-pratama&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+ </a> -->
+ 
+  ![Yoga's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoga-pratama&theme=dark&hide_rank=true&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoga-pratama&hide=objective-c&show=kotlin&langs_count=8&size_weight=0.5&count_weight=0.5)
 </p>
 
-<hr>
+
 <br>
 <h2 align="center">🔥 Here Some of my Portofolio 🔥</h2><br>
 
